@@ -1,7 +1,7 @@
 # Amazon-reviews-extract
 Amazon reviews extracts by using BeautifulSoup, Splash JS, Docker, Python.
 
-Extract/Scrape the amazon reviews of your desired product easily by following the next steps:-
+**Extract/Scrape the amazon reviews of your desired product easily by following the next steps:-**
 
 # Installation
 ## Install Docker.

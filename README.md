@@ -8,10 +8,10 @@ Amazon reviews extracts by using BeautifulSoup, Splash JS, Docker, Python.
 Make sure you have latest version version of python installed. Visit the official Python website at <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> to download and install the latest version of Python.
 You can install the libraries by running the following commands in your terminal or command prompt:
 
-pandas-```pip install pandas```
-openpyxl-```pip install openpyxl```
-requests-```pip install requests```
-beautifulsoup4-```pip install beautifulsoup4```
+pandas-```pip install pandas```<br>
+openpyxl-```pip install openpyxl```<br>
+requests-```pip install requests```<br>
+beautifulsoup4-```pip install beautifulsoup4```<br>
 
 ## 2.Install Docker.
 First of all we need to install docker

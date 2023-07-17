@@ -6,7 +6,7 @@ Amazon reviews extracts by using BeautifulSoup, Splash JS, Docker, Python.
 # Installation
 ## Install Docker.
 First of all we need to install docker
-Download from here according to your machine- 
+*Download from here according to your machine-* 
 <a href="https://www.docker.com/products/docker-desktop/"> https://www.docker.com/products/docker-desktop/</a>
 
 ## Installation of Splash JS
@@ -43,7 +43,7 @@ Start the container:
 
 Splash is available at 0.0.0.0 address at port 8050 (http).
 
-Check out the whole Splash JS Documentation here- <a href="https://splash.readthedocs.io/en/stable/install.html#linux-docker">https://splash.readthedocs.io/en/stable/install.html#linux-docker</a>
+*Check out the whole Splash JS Documentation here-* <a href="https://splash.readthedocs.io/en/stable/install.html#linux-docker">https://splash.readthedocs.io/en/stable/install.html#linux-docker</a>
 
 # Run the code
 Run the python code which is created with BeautifulSoup and requests libraries.

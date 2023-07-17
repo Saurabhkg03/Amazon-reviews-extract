@@ -1,7 +1,7 @@
 # Amazon-reviews-extract
 Amazon reviews extracts by using BeautifulSoup, Splash JS, Docker, Python.
 
-**Extract/Scrape the amazon reviews of your desired product easily by following the next steps:-**
+**Extract/Scrape the amazon reviews of your desired product easily by following the next steps one by one:-**
 
 # Installation
 ## 1.Install all the Dependancies and libraries you need-
@@ -58,3 +58,5 @@ Splash is available at 0.0.0.0 address at port 8050 (http).
 Run the python code which is created with BeautifulSoup and requests libraries.<br>
 (Make sure you have all  the libraries and dependancies installed.<br>
 Remember to replace the https link with the second page of product link you want and keep the ={x} as it is by removing =2 in the code.)
+
+The Reviews will be saved in an excel file.

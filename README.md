@@ -9,6 +9,7 @@ Download from here according to your machine-
 
 ## Installation of Splash JS
 
+Run the following commands in the terminal.
 ### ※For Windows
 Make sure Docker version >= 17 is installed.
 

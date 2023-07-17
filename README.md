@@ -41,5 +41,7 @@ Start the container:
 
 Splash is available at 0.0.0.0 address at port 8050 (http).
 
+Check out the whole Splash JS Documentation here- <a href="https://splash.readthedocs.io/en/stable/install.html#linux-docker">https://splash.readthedocs.io/en/stable/install.html#linux-docker</a>
+
 # Run the code
 Run the python code which is created with BeautifulSoup and requests libraries.
